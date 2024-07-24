@@ -1,0 +1,231 @@
+{
+  "HEADER": {
+    "BRAND": "FUNTEMAN",
+    "HOME": "Inicio",
+    "FACILITIES": "Instalaciones",
+    "DONATIONS": "Donaciones",
+    "ABOUT_US": "Acerca de",
+    "LANGUAGE": "Idioma",
+    "SPANISH": "Español",
+    "ENGLISH": "Inglés"
+  },
+  "HOME": {
+    "CAROUSEL_1": {
+      "TITLE1": "Fundación para la Tercera Edad",
+      "TITLE2": "San Pablo de Manta",
+      "TITLE3": "FUNTEMAN",
+      "MORE_INFO": "Más información"
+    },
+    "OFFER_TITLE": "Que ofrece FUNTEMAN",
+    "SERVICES": "Servicios",
+    "PROJECTS": "Proyectos",
+    "ACTIVITIES": "Actividades",
+    "CARDS": {
+      "CARD1": "Cuidados al adulto mayor",
+      "CARD2": "Terapia física externa",
+      "CARD3": "Alquiler de cancha sintética",
+      "CARD4": "Venta de ropa usada",
+      "CARD5": "Garaje para vehículos",
+      "CARD6": "Reconstrucción de sala de recreación",
+      "CARD7": "Construcción de piscina para adultos mayores",
+      "CARD8": "Instalación de ascensor",
+      "CARD9": "Reconstrucción de salón de eventos",
+      "CARD10": "Venta de ropa usada",
+      "CARD11": "Terapia física externa",
+      "CARD12": "Venta de comida",
+      "CARD13": "Rifas"
+    },
+    "SCHEDULE": {
+      "SCHEDULE1": "Lunes a Viernes de 8:00-16:00",
+      "SCHEDULE2": "Se informa en redes sociales"
+    },
+    "PROFESSIONALS_TITLE": "Contamos con profesionales como:"
+  },
+  "PROFESSIONALS": {
+    "DOCTOR": "Doctor/a",
+    "NURSE": "Lic en Enfermería",
+    "PHYSIOTHERAPIST": "Fisioterapeuta",
+    "CAREGIVER": "Cuidador/a",
+    "INTERN": "Pasante"
+  },
+  "FACILITIES": {
+    "TITLE": "Nuestras instalaciones",
+    "PHOTOS": {
+      "ENTRADA": {
+        "TITLE": "Entrada",
+        "DESCRIPTION": "Entrada principal del lugar."
+      },
+      "VIRGEN": {
+        "TITLE": "Virgen",
+        "DESCRIPTION": "Monumento de la virgen en el entrada."
+      },
+      "RECEPCION_POSTERIOR": {
+        "TITLE": "Recepción Posterior",
+        "DESCRIPTION": "Vista exterior de la recepción."
+      },
+      "RECEPCION": {
+        "TITLE": "Recepción",
+        "DESCRIPTION": "Área principal de la recepción."
+      },
+      "PATIO_PRINCIPAL": {
+        "TITLE": "Patio Principal",
+        "DESCRIPTION": "Patio central al aire libre."
+      },
+      "CUARTO_PENSIONADO": {
+        "TITLE": "Cuarto Pensionado",
+        "DESCRIPTION": "Habitación para pensionados."
+      },
+      "PASILLO_PENSION": {
+        "TITLE": "Pasillo Pension",
+        "DESCRIPTION": "Pasillo en la zona de pensionados."
+      },
+      "PASILLO": {
+        "TITLE": "Pasillo",
+        "DESCRIPTION": "Pasillo del edificio principal."
+      },
+      "CUARTO_GENERAL_HOMBRES": {
+        "TITLE": "Cuarto General Hombres",
+        "DESCRIPTION": "Cuarto General para hombres."
+      },
+      "CUARTO_GENERAL_MUJERES": {
+        "TITLE": "Cuarto General Mujeres",
+        "DESCRIPTION": "Cuarto General para mujeres."
+      },
+      "SALA_RECREACION_1": {
+        "TITLE": "Sala Recreación 1",
+        "DESCRIPTION": "Sala de recreación."
+      },
+      "SALA_RECREACION_2": {
+        "TITLE": "Sala Recreación 2",
+        "DESCRIPTION": "Sala de recreación."
+      },
+      "AREA_FISIOTERAPIA": {
+        "TITLE": "Área Fisioterapia",
+        "DESCRIPTION": "Zona de fisioterapia."
+      },
+      "ENFERMERIA": {
+        "TITLE": "Enfermería",
+        "DESCRIPTION": "Sala de enfermería."
+      },
+      "COCINA": {
+        "TITLE": "Cocina",
+        "DESCRIPTION": "Cocina principal."
+      },
+      "COMEDOR": {
+        "TITLE": "Comedor",
+        "DESCRIPTION": "Comedor para residentes."
+      },
+      "LAVANDERIA": {
+        "TITLE": "Lavandería",
+        "DESCRIPTION": "Área de lavandería."
+      },
+      "PARQUE": {
+        "TITLE": "Parque",
+        "DESCRIPTION": "Parque recreativo."
+      },
+      "SALA_DE_REUNIONES": {
+        "TITLE": "Sala de Reuniones",
+        "DESCRIPTION": "Sala para reuniones."
+      },
+      "CANCHA_SINTETICA": {
+        "TITLE": "Cancha Sintética",
+        "DESCRIPTION": "Cancha de césped sintético."
+      },
+      "ESTACIONAMIENTO": {
+        "TITLE": "Estacionamiento",
+        "DESCRIPTION": "Área de estacionamiento."
+      }
+    }
+  },
+  "DONATIONS": {
+    "TITLE": "Donaciones",
+    "TEXT1": "¿Quieres realizar una buena causa y apoyarnos en nuestra labor?",
+    "TEXT2": "Si deseas ayudarnos te puedes contactar con nosotros al 0985118284, o puedes realizar tus donaciones presencialmente en nuestras oficinas ubicadas en la av. 24 entre calles 12 y 13 de lunes a viernes de 8 am a 5 pm, o realizar tu donación directo a nuestras cuentas: Banco de pichincha cuenta corriente # 2100245808 a nombre de Funteman Banco de internacional cuenta corriente #700060267-3, a nombre de Funteman.  En caso de donaciones internacionales, ponerse en contacto con nosotros.",
+    "LIST": {
+      "RUC": "RUC: 1391700288001",
+      "EMAIL": "Correo: funteman@gmail.com"
+    },
+    "BUTTON": "Contáctanos aquí"
+  },
+  "ABOUT_US": {
+    "SECTION_TITLE": "Sobre nosotros",
+    "SECTION_TEXT": "Funteman es una casa Hogar en Manta, pionera en la atención al Adulto Mayor con 34 años de vida jurídica. Actualmente atendemos a 50 ancianos, brindándoles un envejecimiento feliz con 5 comidas diarias balanceadas, cuidados en aseo personal y salud, terapia física y ocupacional, lavado de ropa y atención 24/7. Nuestra fundación se sostiene gracias a donaciones de empresas manabitas y a la labor de voluntarias DAMAS DE BLANCO, quienes realizan actividades como bingos, rifas y venta de comidas para cubrir los gastos de este servicio tan necesario para la sociedad.",
+    "MISSION_VISION": {
+      "TITLE": "Misión y Visión",
+      "TEXT": "Inspiran nuestro compromiso con el bienestar de los adultos mayores.",
+      "LINK_TEXT": "Ver Misión y Visión"
+    },
+    "BOARD": {
+      "TITLE": "Junta Directiva",
+      "TEXT": "Conoce a los líderes que dirigen nuestra fundación con dedicación y compromiso.",
+      "LINK_TEXT": "Ver Junta Directiva"
+    },
+    "CONTACT": {
+      "TITLE": "Contacto",
+      "TEXT": "¿Tienes alguna pregunta o necesitas más información? Contáctanos.",
+      "LINK_TEXT": "Contacto"
+    },
+    "MISSION": {
+      "TITLE": "Misión",
+      "TEXT": "Brindar confianza y seguridad a las personas de la tercera edad y a sus familiares, ofreciéndole atención permanente en sus cuidados; evitando el deterioro repentino de sus condiciones físicas, sociales y psicológicas, ofreciéndole un ambiente de tranquilidad y confianza; estimulándolo a conservar sus facultades culturales y fortaleciendo su espiritualidad."
+    },
+    "VISION": {
+      "TITLE": "Visión",
+      "TEXT": "Optimizar todos los recursos y servicios que ofrece la Fundación al público, pero en particular al Adulto Mayor, creando las condiciones físicas necesarias para el cuidado y tratamiento de los mismos, concienciando a las bases sociales del servicio ofrecido por la Institución, generando así fiabilidad en la comunidad sobre la atención que se brinda."
+    },
+    "BOARD_MEMBERS": {
+      "TITLE": "Junta Directiva",
+      "PRESIDENT": {
+        "POSITION": "Presidenta",
+        "NAME": "Mieles Mora Marcia Elizabeth"
+      },
+      "VICE_PRESIDENT": {
+        "POSITION": "Vicepresidenta",
+        "NAME": "Del Hierro Morcillo Alicia Judith"
+      },
+      "SECRETARY": {
+        "POSITION": "Secretaria",
+        "NAME": "Alava Avila Tammy Monika"
+      },
+      "TREASURER": {
+        "POSITION": "Tesorera",
+        "NAME": "Mera Bernal Alicia Emperatriz"
+      },
+      "FIRST_MEMBER": {
+        "POSITION": "Primer Vocal",
+        "NAME": "Rodriguez Vilma Patricia"
+      },
+      "SECOND_MEMBER": {
+        "POSITION": "Segundo Vocal",
+        "NAME": "Del Castillo Borja Dolores Magdalena"
+      },
+      "THIRD_MEMBER": {
+        "POSITION": "Tercer Vocal",
+        "NAME": "Rodas Bondniza Yuly Elizabeth"
+      },
+      "ALTERNATE_MEMBER": {
+        "POSITION": "Vocal Suplente",
+        "NAME": "Rivas Garcia Olga Yolanda"
+      },
+      "MEMBER": {
+        "NAME": "Nombre"
+      }
+    },
+    "CONTACT_US": {
+      "TITLE": "Contáctanos",
+      "TEXT": "¿Quieres contactarnos?",
+      "INFO": {
+        "TITLE": "Información de contacto",
+        "ADDRESS": "Dirección: Avenida 24 entre calles 12 y 13, Manta, Ecuador",
+        "PHONE": "Teléfonos:",
+        "EMAIL": "Correo electrónico: funteman@gmail.com"
+      },
+      "LOCATION": "Ubicación",
+      "WHATSAPP": "Contáctanos por WhatsApp",
+      "BUTTON": "Presione aquí"
+    }
+  },
+  "FOOTER": {
+    "COPYRIGHT": "Derechos de autor FUNTEMAN | Desarrollado por: Michael Vinces & Cristian Bonilla"
+  }
+}

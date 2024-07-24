@@ -1,0 +1,369 @@
+<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+      aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+      aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+      aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="../../assets/galeria/galeria_salarecreacion4.webp" class="d-block w-100" alt="Banner 1">
+      <div class="dark-overlay"></div>
+      <div class="carousel-caption d-md-block">
+        <h1>{{ 'HOME.CAROUSEL_1.TITLE1' | translate }}</h1>
+        <h1>{{ 'HOME.CAROUSEL_1.TITLE2' | translate }}</h1>
+        <h2>{{ 'HOME.CAROUSEL_1.TITLE3' | translate }}</h2>
+        <a routerLink="/about-us" class="btn btn-new">{{ 'HOME.CAROUSEL_1.MORE_INFO' | translate }}</a>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="../../assets/profesiones/profesion_pasante3.webp" class="d-block w-100" alt="Banner 2">
+      <div class="dark-overlay"></div>
+      <div class="carousel-caption d-md-block">
+        <h1>{{ 'HOME.CAROUSEL_1.TITLE1' | translate }}</h1>
+        <h1>{{ 'HOME.CAROUSEL_1.TITLE2' | translate }}</h1>
+        <h2>{{ 'HOME.CAROUSEL_1.TITLE3' | translate }}</h2>
+        <a routerLink="/about-us" class="btn btn-new">{{ 'HOME.CAROUSEL_1.MORE_INFO' | translate }}</a>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="../../assets/profesiones/profesion_cuidador6.webp" class="d-block w-100" alt="Banner 3">
+      <div class="dark-overlay"></div>
+      <div class="carousel-caption d-md-block">
+        <h1>{{ 'HOME.CAROUSEL_1.TITLE1' | translate }}</h1>
+        <h1>{{ 'HOME.CAROUSEL_1.TITLE2' | translate }}</h1>
+        <h2>{{ 'HOME.CAROUSEL_1.TITLE3' | translate }}</h2>
+        <a routerLink="/about-us" class="btn btn-new">{{ 'HOME.CAROUSEL_1.MORE_INFO' | translate }}</a>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+<div class="container mt-3 mobile-title">
+  <h1>{{ 'HOME.CAROUSEL_1.TITLE1' | translate }}</h1>
+  <h1>{{ 'HOME.CAROUSEL_1.TITLE2' | translate }}</h1>
+  <h2>{{ 'HOME.CAROUSEL_1.TITLE3' | translate }}</h2>
+  <a routerLink="/about-us" class="btn btn-new">{{ 'HOME.CAROUSEL_1.MORE_INFO' | translate }}</a>
+</div>
+
+<div class="container mt-5">
+  <h2 class="section-title">{{ 'HOME.OFFER_TITLE' | translate }}</h2>
+  <div class="button-container">
+    <button id="serviceBtn" class="btn btn-category active">{{ 'HOME.SERVICES' | translate }}</button>
+    <button id="projectBtn" class="btn btn-category">{{ 'HOME.PROJECTS' | translate }}</button>
+    <button id="activityBtn" class="btn btn-category">{{ 'HOME.ACTIVITIES' | translate }}</button>
+  </div>
+
+  <div id="servicesCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div class="row">
+          <div class="col-md-4 mb-4">
+            <div class="card service-card">
+              <img src="../../assets/galeria/galeria_salarecreacion2.webp" class="card-img-top" alt="Parque">
+              <div class="card-body">
+                <h5 class="card-title">{{ 'HOME.CARDS.CARD1' | translate }}</h5>
+                <p class="card-text"></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-4">
+            <div class="card service-card">
+              <img src="../../assets/profesiones/profesion_fisioterapeuta1.webp" class="card-img-top" alt="Dormitorios">
+              <div class="card-body">
+                <h5 class="card-title">{{ 'HOME.CARDS.CARD2' | translate }}</h5>
+                <p class="card-text"></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-4">
+            <div class="card service-card">
+              <img src="../../assets/galeria/galeria_canchasintetica1.webp" class="card-img-top" alt="Lavanderia">
+              <div class="card-body">
+                <h5 class="card-title">{{ 'HOME.CARDS.CARD3' | translate }}</h5>
+                <p class="card-text"></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="row">
+          <div class="col-md-4 mb-4">
+            <div class="card service-card">
+              <img src="../../assets/galeria/galeria_ropausada.webp" class="card-img-top"
+                alt="Cuidados al Adulto Mayor">
+              <div class="card-body">
+                <h5 class="card-title">{{ 'HOME.CARDS.CARD4' | translate }}</h5>
+                <p class="card-text"></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-4">
+            <div class="card service-card">
+              <img src="../../assets/galeria/galeria_estacionamiento.webp" class="card-img-top"
+                alt="Terapia Física externa">
+              <div class="card-body">
+                <h5 class="card-title">{{ 'HOME.CARDS.CARD5' | translate }}</h5>
+                <p class="card-text"></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button class="carousel-control-prev custom-prev" type="button" data-bs-target="#servicesCarousel"
+      data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next custom-next" type="button" data-bs-target="#servicesCarousel"
+      data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+
+  <div id="projectsCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div class="row">
+          <div class="col-md-4 mb-4">
+            <div class="card service-card">
+              <img src="../../assets/galeria/galeria_salarecreacion3.webp" class="card-img-top" alt="salarecreacion">
+              <div class="card-body">
+                <h5 class="card-title">{{ 'HOME.CARDS.CARD6' | translate }}</h5>
+                <p class="card-text"></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-4">
+            <div class="card service-card">
+              <img src="../../assets/piscina.webp" class="card-img-top" alt="piscina">
+              <div class="card-body">
+                <h5 class="card-title">{{ 'HOME.CARDS.CARD7' | translate }}</h5>
+                <p class="card-text"></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-4">
+            <div class="card service-card">
+              <img src="../../assets/ascensor.webp" class="card-img-top" alt="ascensor">
+              <div class="card-body">
+                <h5 class="card-title">{{ 'HOME.CARDS.CARD8' | translate }}</h5>
+                <p class="card-text"></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="row">
+          <div class="col-md-4 mb-4">
+            <div class="card service-card">
+              <img src="../../assets/saloneventos.webp" class="card-img-top" alt="salaeventos">
+              <div class="card-body">
+                <h5 class="card-title">{{ 'HOME.CARDS.CARD9' | translate }}</h5>
+                <p class="card-text"></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button class="carousel-control-prev custom-prev" type="button" data-bs-target="#projectsCarousel"
+      data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next custom-next" type="button" data-bs-target="#projectsCarousel"
+      data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+
+  <div id="activitiesCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div class="row">
+          <div class="col-md-4 mb-4">
+            <div class="card service-card">
+              <img src="../../assets/ropa.webp" class="card-img-top" alt="salarecreacion">
+              <div class="card-body">
+                <h5 class="card-title">{{ 'HOME.CARDS.CARD10' | translate }}</h5>
+                <p class="card-text">{{ 'HOME.SCHEDULE.SCHEDULE1' | translate }}</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-4">
+            <div class="card service-card">
+              <img src="../../assets/profesiones/profesion_fisioterapeuta4.webp" class="card-img-top" alt="piscina">
+              <div class="card-body">
+                <h5 class="card-title">{{ 'HOME.CARDS.CARD11' | translate }}</h5>
+                <p class="card-text">{{ 'HOME.SCHEDULE.SCHEDULE1' | translate }}</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-4">
+            <div class="card service-card">
+              <img src="../../assets/comida.webp" class="card-img-top" alt="ascensor">
+              <div class="card-body">
+                <h5 class="card-title">{{ 'HOME.CARDS.CARD12' | translate }}</h5>
+                <p class="card-text">{{ 'HOME.SCHEDULE.SCHEDULE2' | translate }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="row">
+          <div class="col-md-4 mb-4">
+            <div class="card service-card">
+              <img src="../../assets/rifa.webp" class="card-img-top" alt="salaeventos">
+              <div class="card-body">
+                <h5 class="card-title">{{ 'HOME.CARDS.CARD13' | translate }}</h5>
+                <p class="card-text">{{ 'HOME.SCHEDULE.SCHEDULE2' | translate }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button class="carousel-control-prev custom-prev" type="button" data-bs-target="#activitiesCarousel"
+      data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next custom-next" type="button" data-bs-target="#activitiesCarousel"
+      data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+
+  <div id="servicesList">
+    <div class="service-card-horizontal">
+      <img src="../../assets/galeria/galeria_salarecreacion2.webp" class="card-img-left" alt="Parque">
+      <div class="card-body">
+        <h5 class="card-title">{{ 'HOME.CARDS.CARD1' | translate }}</h5>
+        <p class="card-text"></p>
+      </div>
+    </div>
+    <div class="service-card-horizontal">
+      <img src="../../assets/profesiones/profesion_fisioterapeuta1.webp" class="card-img-left" alt="Dormitorios">
+      <div class="card-body">
+        <h5 class="card-title">{{ 'HOME.CARDS.CARD2' | translate }}</h5>
+        <p class="card-text"></p>
+      </div>
+    </div>
+    <div class="service-card-horizontal">
+      <img src="../../assets/galeria/galeria_canchasintetica1.webp" class="card-img-left" alt="Lavanderia">
+      <div class="card-body">
+        <h5 class="card-title">{{ 'HOME.CARDS.CARD3' | translate }}</h5>
+        <p class="card-text"></p>
+      </div>
+    </div>
+    <div class="service-card-horizontal">
+      <img src="../../assets/galeria/galeria_ropausada.webp" class="card-img-left" alt="Cuidados al Adulto Mayor">
+      <div class="card-body">
+        <h5 class="card-title">{{ 'HOME.CARDS.CARD4' | translate }}</h5>
+        <p class="card-text"></p>
+      </div>
+    </div>
+    <div class="service-card-horizontal">
+      <img src="../../assets/galeria/galeria_estacionamiento.webp" class="card-img-left" alt="Terapia Física externa">
+      <div class="card-body">
+        <h5 class="card-title">{{ 'HOME.CARDS.CARD5' | translate }}</h5>
+        <p class="card-text"></p>
+      </div>
+    </div>
+  </div>
+
+  <div id="projectsList">
+    <div class="service-card-horizontal">
+      <img src="../../assets/galeria/galeria_salarecreacion3.webp" class="card-img-left" alt="salarecreacion">
+      <div class="card-body">
+        <h5 class="card-title">{{ 'HOME.CARDS.CARD6' | translate }}</h5>
+        <p class="card-text"></p>
+      </div>
+    </div>
+    <div class="service-card-horizontal">
+      <img src="../../assets/piscina.webp" class="card-img-left" alt="piscina">
+      <div class="card-body">
+        <h5 class="card-title">{{ 'HOME.CARDS.CARD7' | translate }}</h5>
+        <p class="card-text"></p>
+      </div>
+    </div>
+    <div class="service-card-horizontal">
+      <img src="../../assets/ascensor.webp" class="card-img-left" alt="ascensor">
+      <div class="card-body">
+        <h5 class="card-title">{{ 'HOME.CARDS.CARD8' | translate }}</h5>
+        <p class="card-text"></p>
+      </div>
+    </div>
+    <div class="service-card-horizontal">
+      <img src="../../assets/saloneventos.webp" class="card-img-left" alt="salaeventos">
+      <div class="card-body">
+        <h5 class="card-title">{{ 'HOME.CARDS.CARD9' | translate }}</h5>
+        <p class="card-text"></p>
+      </div>
+    </div>
+  </div>
+
+  <div id="activitiesList">
+    <div class="service-card-horizontal">
+      <img src="../../assets/ropa.webp" class="card-img-left" alt="salarecreacion">
+      <div class="card-body">
+        <h5 class="card-title">{{ 'HOME.CARDS.CARD10' | translate }}</h5>
+        <p class="card-text">{{ 'HOME.SCHEDULE.SCHEDULE1' | translate }}</p>
+      </div>
+    </div>
+    <div class="service-card-horizontal">
+      <img src="../../assets/profesiones/profesion_fisioterapeuta4.webp" class="card-img-left" alt="piscina">
+      <div class="card-body">
+        <h5 class="card-title">{{ 'HOME.CARDS.CARD11' | translate }}</h5>
+        <p class="card-text">{{ 'HOME.SCHEDULE.SCHEDULE1' | translate }}</p>
+      </div>
+    </div>
+    <div class="service-card-horizontal">
+      <img src="../../assets/comida.webp" class="card-img-left" alt="ascensor">
+      <div class="card-body">
+        <h5 class="card-title">{{ 'HOME.CARDS.CARD12' | translate }}</h5>
+        <p class="card-text">{{ 'HOME.SCHEDULE.SCHEDULE2' | translate }}</p>
+      </div>
+    </div>
+    <div class="service-card-horizontal">
+      <img src="../../assets/rifa.webp" class="card-img-left" alt="salaeventos">
+      <div class="card-body">
+        <h5 class="card-title">{{ 'HOME.CARDS.CARD13' | translate }}</h5>
+        <p class="card-text">{{ 'HOME.SCHEDULE.SCHEDULE2' | translate }}</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container mt-5">
+  <div class="profession-gallery-container ">
+    <h2>{{ 'HOME.PROFESSIONALS_TITLE' | translate }}</h2>
+    <div class="profession-gallery">
+      <div class="profession-photo" *ngFor="let professional of professionals"
+        (click)="showProfessionTitle(professional)"
+        [ngClass]="{'active': selectedProfessionTitle === professional.title}">
+        <img [src]="professional.url" [alt]="professional.title" />
+        <div *ngIf="selectedProfessionTitle === professional.title" class="profession-title">
+          <h3>{{ professional.title }}</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

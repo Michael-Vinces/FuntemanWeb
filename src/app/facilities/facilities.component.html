@@ -1,0 +1,13 @@
+<div class="container mt-5">
+  <h2 class="title-section">{{ 'FACILITIES.TITLE' | translate }}</h2>
+  <div class="row mt-4">
+    <div class="col-md-4" *ngFor="let photo of photos">
+      <div class="card mb-4 shadow-sm">
+        <img [src]="photo.url" class="bd-placeholder-img card-img-top" alt="{{ photo.title }}">
+        <div class="card-body">
+          <p class="card-text">{{ photo.description }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

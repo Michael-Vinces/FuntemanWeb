@@ -1,0 +1,42 @@
+.container {
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  color: #007BFF;
+  margin-bottom: 30px;
+}
+
+.card {
+  border: none;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-body {
+  background-color: #f8f9fa;
+}
+
+.card-text {
+  color: #343a40;
+}
+
+.title-section {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-size: 3.5rem;
+  color: #3e4a61;
+  letter-spacing: 2px;
+  margin-bottom: 30px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .title-section {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+  }
+}

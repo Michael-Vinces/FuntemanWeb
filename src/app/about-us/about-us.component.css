@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Lobster&family=Playfair+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Canva+Sans:wght@400;700&display=swap');
+
+.container {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    color: #007BFF;
+    margin-bottom: 30px;
+}
+
+h3 {
+    color: #343A40;
+}
+
+p {
+    color: #343A40;
+}
+
+img.rounded-circle {
+    width: 150px;
+    height: 150px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mb-3 {
+    margin-bottom: 1rem;
+}
+
+.mt-5 {
+    margin-top: 3rem;
+}
+
+.mission-box,
+.vision-box {
+    border-radius: 15px;
+    padding: 55px 20px 20px;
+    margin: 15px 0;
+    position: relative;
+}
+
+.mission-box {
+    background-color: #e0f7fa;
+}
+
+.vision-box {
+    background-color: #b3e5fc;
+}
+
+.mission-box h3,
+.vision-box h3 {
+    margin-top: 0;
+    font-family: 'Lobster', cursive;
+    font-size: 2.5rem;
+    color: #00796b;
+    position: absolute;
+    top: -20px;
+    left: 10px;
+    transform: rotate(-10deg);
+    background-color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.vision-box h3 {
+    color: #0288d1;
+}
+
+.title-section {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 3.5rem;
+    color: #3e4a61;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 0 auto;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    margin-top: 1rem;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+.contact-info {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info h4 {
+    margin-bottom: 1.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2980b9;
+}
+
+.contact-info h5 {
+    margin-top: 1.5rem;
+    color: #34495e;
+}
+
+.contact-info p {
+    margin-bottom: 0.5rem;
+    color: #2c3e50;
+}
+
+.contact-details p i {
+    margin-right: 8px;
+    color: #3498db;
+}
+
+.contact-details p {
+    display: flex;
+    align-items: center;
+}
+
+.whatsapp-contact {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.whatsapp-contact img {
+    margin-bottom: 1rem;
+}
+
+.whatsapp-contact h5 {
+    margin-bottom: 1rem;
+    color: #27ae60;
+}
+
+.btn-gradient {
+    background: linear-gradient(to right, #56ab2f, #a8e063);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.25rem;
+    border-radius: 25px;
+    text-decoration: none;
+    transition: background 0.3s ease;
+}
+
+.btn-gradient:hover {
+    background: linear-gradient(to right, #a8e063, #56ab2f);
+    text-decoration: none;
+}
+
+@media (max-width: 768px) {
+
+    .contact-info,
+    .whatsapp-contact {
+        text-align: center;
+    }
+
+    .contact-info h4,
+    .contact-info h5,
+    .contact-info p,
+    .whatsapp-contact h5 {
+        text-align: center;
+    }
+
+    .contact-details p {
+        justify-content: center;
+    }
+}
+
+.section-title {
+    font-family: 'Lora', serif;
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+.title-section {
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+.section-text {
+    font-family: 'Canva Sans', sans-serif;
+    font-size: 1.125rem;
+    color: #333;
+    line-height: 1.8;
+    text-align: justify;
+    margin-right: 2rem;
+
+}
+
+.rounded-image {
+    border-radius: 15px;
+    margin-left: 0rem;
+
+}
+
+.container {
+    margin-top: 3rem;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+    .section-title {
+        font-size: 2.5rem;
+    }
+
+    .title-section {
+        font-size: 2.5rem;
+    }
+
+    .section-text {
+        font-size: 1rem;
+        margin-right: 0;
+
+    }
+
+    .rounded-image {
+        margin-top: 2rem;
+        margin-left: 0;
+
+    }
+}

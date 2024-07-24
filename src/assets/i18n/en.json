@@ -1,0 +1,255 @@
+{
+  "HEADER": {
+    "BRAND": "FUNTEMAN",
+    "HOME": "Home",
+    "FACILITIES": "Facilities",
+    "DONATIONS": "Donations",
+    "ABOUT_US": "About us",
+    "LANGUAGE": "Language",
+    "SPANISH": "Spanish",
+    "ENGLISH": "English"
+  },
+    
+      "HOME": {
+        "CAROUSEL_1": {
+          "TITLE1": "Foundation for the Elderly",
+          "TITLE2": "San Pablo de Manta",
+          "TITLE3": "FUNTEMAN",
+          "MORE_INFO": "More information"
+        },
+        "OFFER_TITLE": "What FUNTEMAN offers",
+        "SERVICES": "Services",
+        "PROJECTS": "Projects",
+        "ACTIVITIES": "Activities",
+        "CARDS": {
+          "CARD1": "Elderly care",
+          "CARD2": "External physical therapy",
+          "CARD3": "Synthetic field rental",
+          "CARD4": "Sale of used clothes",
+          "CARD5": "Vehicle garage",
+          "CARD6": "Recreation room reconstruction",
+          "CARD7": "Swimming pool construction for seniors",
+          "CARD8": "Elevator installation",
+          "CARD9": "Event hall reconstruction",
+          "CARD10": "Sale of used clothes",
+          "CARD11": "External physical therapy",
+          "CARD12": "Food sale",
+          "CARD13": "Raffles"
+        },
+        "SCHEDULE": {
+          "SCHEDULE1": "Monday to Friday from 8:00-16:00",
+          "SCHEDULE2": "Announced on social media"
+        },
+        "PROFESSIONALS_TITLE": "We have professionals such as:"
+      },
+      
+        "PROFESSIONALS": {
+          "DOCTOR": "Doctor",
+          "NURSE": "Nurse",
+          "PHYSIOTHERAPIST": "Physiotherapist",
+          "CAREGIVER": "Caregiver",
+          "INTERN": "Intern"
+        },
+        
+          "FACILITIES": {
+            "TITLE": "Our facilities",
+            "PHOTOS": {
+              "ENTRADA": {
+                "TITLE": "Entrance",
+                "DESCRIPTION": "Main entrance of the place."
+              },
+              "VIRGEN": {
+                "TITLE": "Virgin",
+                "DESCRIPTION": "Virgin monument at the entrance."
+              },
+              "RECEPCION_POSTERIOR": {
+                "TITLE": "Rear Reception",
+                "DESCRIPTION": "Exterior view of the reception."
+              },
+              "RECEPCION": {
+                "TITLE": "Reception",
+                "DESCRIPTION": "Main reception area."
+              },
+              "PATIO_PRINCIPAL": {
+                "TITLE": "Main Patio",
+                "DESCRIPTION": "Outdoor central patio."
+              },
+              "CUARTO_PENSIONADO": {
+                "TITLE": "Pension Room",
+                "DESCRIPTION": "Room for pensioners."
+              },
+              "PASILLO_PENSION": {
+                "TITLE": "Pension Hallway",
+                "DESCRIPTION": "Hallway in the pension area."
+              },
+              "PASILLO": {
+                "TITLE": "Hallway",
+                "DESCRIPTION": "Hallway of the main building."
+              },
+              "CUARTO_GENERAL_HOMBRES": {
+                "TITLE": "General Men's Room",
+                "DESCRIPTION": "General room for men."
+              },
+              "CUARTO_GENERAL_MUJERES": {
+                "TITLE": "General Women's Room",
+                "DESCRIPTION": "General room for women."
+              },
+              "SALA_RECREACION_1": {
+                "TITLE": "Recreation Room 1",
+                "DESCRIPTION": "Recreation room."
+              },
+              "SALA_RECREACION_2": {
+                "TITLE": "Recreation Room 2",
+                "DESCRIPTION": "Recreation room."
+              },
+              "AREA_FISIOTERAPIA": {
+                "TITLE": "Physiotherapy Area",
+                "DESCRIPTION": "Physiotherapy area."
+              },
+              "ENFERMERIA": {
+                "TITLE": "Nursing",
+                "DESCRIPTION": "Nursing room."
+              },
+              "COCINA": {
+                "TITLE": "Kitchen",
+                "DESCRIPTION": "Main kitchen."
+              },
+              "COMEDOR": {
+                "TITLE": "Dining Room",
+                "DESCRIPTION": "Dining room for residents."
+              },
+              "LAVANDERIA": {
+                "TITLE": "Laundry",
+                "DESCRIPTION": "Laundry area."
+              },
+              "PARQUE": {
+                "TITLE": "Park",
+                "DESCRIPTION": "Recreational park."
+              },
+              "SALA_DE_REUNIONES": {
+                "TITLE": "Meeting Room",
+                "DESCRIPTION": "Meeting room."
+              },
+              "CANCHA_SINTETICA": {
+                "TITLE": "Synthetic Field",
+                "DESCRIPTION": "Synthetic grass field."
+              },
+              "ESTACIONAMIENTO": {
+                "TITLE": "Parking",
+                "DESCRIPTION": "Parking area."
+              }
+            }
+          },
+          
+            "DONATIONS": {
+              "TITLE": "Donations",
+              "TEXT1": "Do you want to do a good deed and support us in our work?",
+              "TEXT2": "If you want to help us, you can contact us at 0985118284, or you can make your donations in person at our offices located at av. 24 between streets 12 and 13 from Monday to Friday from 8 am to 5 pm, or make your donation directly to our accounts: Banco de Pichincha current account # 2100245808 in the name of Funteman Banco de internacional current account #700060267-3, in the name of Funteman. In case of international donations, contact us.",
+              "LIST": {
+                "RUC": "RUC: 1391700288001",
+                "EMAIL": "Email: funteman@gmail.com"
+              },
+              "BUTTON": "Contact us here"
+            },
+
+            
+              "ABOUT_US": {
+                "SECTION_TITLE": "About us",
+                "SECTION_TEXT": "Funteman is a home in Manta, a pioneer in the care of the elderly with 34 years of legal life. We currently serve 50 elderly people, providing them with happy aging with 5 balanced daily meals, personal and health care, physical and occupational therapy, laundry, and 24/7 attention. Our foundation is sustained thanks to donations from Manabí companies and the work of volunteer DAMAS DE BLANCO, who carry out activities such as bingo, raffles, and food sales to cover the expenses of this much-needed service for society.",
+                "MISSION_VISION": {
+                  "TITLE": "Mission and Vision",
+                  "TEXT": "Inspire our commitment to the well-being of the elderly.",
+                  "LINK_TEXT": "View Mission and Vision"
+                },
+                "BOARD": {
+                  "TITLE": "Board of Directors",
+                  "TEXT": "Meet the leaders who run our foundation with dedication and commitment.",
+                  "LINK_TEXT": "View Board of Directors"
+                },
+                "CONTACT": {
+                  "TITLE": "Contact",
+                  "TEXT": "Do you have any questions or need more information? Contact us.",
+                  "LINK_TEXT": "Contact"
+                },
+                "MISSION": {
+                  "TITLE": "Mission",
+                  "TEXT": "Provide confidence and security to the elderly and their families, offering them permanent care; preventing the sudden deterioration of their physical, social, and psychological conditions, offering them an environment of tranquility and confidence; encouraging them to preserve their cultural faculties and strengthening their spirituality."
+                },
+                "VISION": {
+                  "TITLE": "Vision",
+                  "TEXT": "Optimize all resources and services offered by the Foundation to the public, but particularly to the elderly, creating the necessary physical conditions for their care and treatment, raising awareness in the social bases of the service offered by the Institution, thus generating reliability in the community about the care provided."
+                },
+                "BOARD_MEMBERS": {
+                  "TITLE": "Board of Directors",
+                  "PRESIDENT": {
+                    "POSITION": "President",
+                    "NAME": "Mieles Mora Marcia Elizabeth"
+                  },
+                  "VICE_PRESIDENT": {
+                    "POSITION": "Vice President",
+                    "NAME": "Del Hierro Morcillo Alicia Judith"
+                  },
+                  "SECRETARY": {
+                    "POSITION": "Secretary",
+                    "NAME": "Alava Avila Tammy Monika"
+                  },
+                  "TREASURER": {
+                    "POSITION": "Treasurer",
+                    "NAME": "Mera Bernal Alicia Emperatriz"
+                  },
+                  "FIRST_MEMBER": {
+                    "POSITION": "First Member",
+                    "NAME": "Rodriguez Vilma Patricia"
+                  },
+                  "SECOND_MEMBER": {
+                    "POSITION": "Second Member",
+                    "NAME": "Del Castillo Borja Dolores Magdalena"
+                  },
+                  "THIRD_MEMBER": {
+                    "POSITION": "Third Member",
+                    "NAME": "Rodas Bondniza Yuly Elizabeth"
+                  },
+                  "ALTERNATE_MEMBER": {
+                    "POSITION": "Alternate Member",
+                    "NAME": "Rivas Garcia Olga Yolanda"
+                  },
+                  "MEMBER": {
+                    "NAME": "Name"
+                  }
+                },
+                "CONTACT_US": {
+                  "TITLE": "Contact us",
+                  "TEXT": "Do you want to contact us?",
+                  "INFO": {
+                    "TITLE": "Contact information",
+                    "ADDRESS": "Address: Avenue 24 between streets 12 and 13, Manta, Ecuador",
+                    "PHONE": "Phones:",
+                    "EMAIL": "Email: funteman@gmail.com"
+                  },
+                  "LOCATION": "Location",
+                  "WHATSAPP": "Contact us via WhatsApp",
+                  "BUTTON": "Click here"
+                }
+              },
+              
+                "FOOTER": {
+                  "COPYRIGHT": "COPYRIGHT FUNTEMAN | Developed by: Michael Vinces & Cristian Bonilla"
+                }
+              }
+              
+            
+            
+            
+            
+
+
+            
+            
+          
+          
+        
+        
+      
+      
+    
+    
